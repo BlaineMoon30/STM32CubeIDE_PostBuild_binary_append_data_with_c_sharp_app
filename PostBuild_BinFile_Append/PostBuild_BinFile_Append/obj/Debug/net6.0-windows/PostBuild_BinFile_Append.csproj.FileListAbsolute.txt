@@ -1,0 +1,17 @@
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.csproj.AssemblyReference.cache
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.Form1.resources
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.csproj.GenerateResource.cache
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.AssemblyInfoInputs.cache
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.AssemblyInfo.cs
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.csproj.CoreCompileInputs.cache
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\bin\Debug\net6.0-windows\PostBuild_BinFile_Append.exe
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\bin\Debug\net6.0-windows\PostBuild_BinFile_Append.deps.json
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\bin\Debug\net6.0-windows\PostBuild_BinFile_Append.runtimeconfig.json
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\bin\Debug\net6.0-windows\PostBuild_BinFile_Append.dll
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\bin\Debug\net6.0-windows\PostBuild_BinFile_Append.pdb
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.dll
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\refint\PostBuild_BinFile_Append.dll
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.pdb
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\PostBuild_BinFile_Append.genruntimeconfig.cache
+D:\C_Sharp\PostBuild_BinFile_Append\PostBuild_BinFile_Append\obj\Debug\net6.0-windows\ref\PostBuild_BinFile_Append.dll
