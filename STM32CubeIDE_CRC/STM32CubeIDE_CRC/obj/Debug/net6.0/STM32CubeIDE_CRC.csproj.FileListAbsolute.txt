@@ -1,0 +1,15 @@
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\bin\Debug\net6.0\STM32CubeIDE_CRC.exe
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\bin\Debug\net6.0\STM32CubeIDE_CRC.deps.json
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\bin\Debug\net6.0\STM32CubeIDE_CRC.runtimeconfig.json
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\bin\Debug\net6.0\STM32CubeIDE_CRC.dll
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\bin\Debug\net6.0\STM32CubeIDE_CRC.pdb
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.csproj.AssemblyReference.cache
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.AssemblyInfoInputs.cache
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.AssemblyInfo.cs
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.csproj.CoreCompileInputs.cache
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.dll
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\refint\STM32CubeIDE_CRC.dll
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.pdb
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\STM32CubeIDE_CRC.genruntimeconfig.cache
+C:\_Blaine\DEV_VisualStudio\Projects_Csharp\STM32CubeIDE_CRC\STM32CubeIDE_CRC\obj\Debug\net6.0\ref\STM32CubeIDE_CRC.dll
