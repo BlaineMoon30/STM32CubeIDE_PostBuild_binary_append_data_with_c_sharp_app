@@ -111,6 +111,7 @@ using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAcces
             if ((crc_32 & 1) == 1)
             {
                 crc_32 = (crc_32 >> 1) ^ 0xEDB88320;
+				//crc_32 = (crc_32 >> 1) ^ 0x04C11DB7;
             }
             else
             {
