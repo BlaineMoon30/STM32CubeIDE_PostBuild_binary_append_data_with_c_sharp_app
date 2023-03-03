@@ -88,7 +88,7 @@ using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAcces
     Console.WriteLine("CRC_16 Newfile Name is " + fileName_CRC_16);
 
     /* CRC 16 Create Final Binary */
-    string filePath_CRC_16_Full = filePath_CRC_16 + fileName_CRC_16;
+    string filePath_CRC_16_Full = filePath_CRC_16 + "\\"  + fileName_CRC_16;
     Console.WriteLine("CRC_16 file path is " + filePath_CRC_16_Full);
 
     using (System.IO.FileStream fs = System.IO.File.Create(filePath_CRC_16_Full))
@@ -132,7 +132,7 @@ using (FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAcces
     Console.WriteLine("CRC_32 Newfile Name is " + fileName_CRC_32);
 
     /* CRC 16 Create Final Binary */
-    string filePath_CRC_32_Full = filePath_CRC_32 + fileName_CRC_32;
+    string filePath_CRC_32_Full = filePath_CRC_32 + "\\"  + fileName_CRC_32;
     Console.WriteLine("CRC_32 file path is " + filePath_CRC_32_Full);
 
     using (System.IO.FileStream fs = System.IO.File.Create(filePath_CRC_32_Full))
